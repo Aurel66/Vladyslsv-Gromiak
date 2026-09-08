@@ -29,6 +29,15 @@ ISSUERS = {
     "VTEU": {"start_spread": 180, "drift": 0.0, "vol": 2.5},
     # Deliberate improvement: streaming credit tightens on a strong outlook
     "CRST": {"start_spread": 300, "drift": 0.0, "vol": 3.5, "event_day": 45, "event_bps": -60},
+    "HRLN": {"start_spread": 145, "drift": 0.0, "vol": 2.0},
+    "CPRU": {"start_spread": 110, "drift": 0.0, "vol": 1.8},
+    "STRT": {"start_spread": 265, "drift": 0.0, "vol": 3.5},
+    "NXRA": {"start_spread": 125, "drift": 0.0, "vol": 2.2},
+    "WCPH": {"start_spread": 150, "drift": 0.0, "vol": 2.0},
+    # Deliberate stress event: mining credit widens sharply on commodity weakness
+    "IRPK": {"start_spread": 380, "drift": 0.0, "vol": 5.0, "event_day": 42, "event_bps": 70},
+    "DLCH": {"start_spread": 210, "drift": 0.0, "vol": 2.8},
+    "BRCS": {"start_spread": 95, "drift": 0.0, "vol": 1.5},
 }
 
 N_DAYS = 60
