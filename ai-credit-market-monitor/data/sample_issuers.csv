@@ -1,0 +1,9 @@
+issuer,ticker,sector,region,rating,total_debt_usd_mm,ebitda_usd_mm,ebit_usd_mm,interest_expense_usd_mm
+Atlas Motors Credit,ATMC,Autos,North America,BB+,18500,3200,2100,950
+Meridian Energy Corp,MERE,Energy,North America,BBB-,9800,2600,2050,410
+Northfield Telecom,NFTC,Telecom,North America,BBB,42000,15800,9200,1850
+Aurora Cruise Lines,AURC,Leisure,Europe,B+,14200,1450,600,780
+Falcon Aerospace,FALC,Industrials,North America,BBB+,12300,4100,3300,320
+Solstice Retail Group,SLRG,Retail,Europe,BB,6100,980,610,340
+Vantage Telecom EU,VTEU,Telecom,Europe,BBB-,26500,7200,4100,880
+Crestview Streaming,CRST,Media,North America,BB+,15400,3900,3100,410
